@@ -1,0 +1,23 @@
+body, html{
+  height: 100%;
+}
+
+.ful{
+  background-color: rgb(26, 8, 124);
+  height: 100%;
+}
+
+.text-tomato{
+  color: tomato;
+}
+
+.box{
+  background-color: rgba(0, 0, 0, 0.4);
+  padding: 50px 30px;
+  border-radius: 15px;
+  box-shadow: 10px 10px 15px rgb(0, 0, 0);
+}
+
+.title{
+  font-size: 45px;
+}
