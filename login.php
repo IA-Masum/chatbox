@@ -10,8 +10,12 @@
       </div>
       <div class="form-group">
         <label for="password">Password</label>
-        <input type="password" class="form-control" id="password" placeholder="password">
+        <input type="password" class="form-control" id="password" placeholder="Password">
       </div>
+      <div class="text-center my-2">
+        <a class="text-danger" href="#">Forgot Password?</a>
+      </div>
+
       <div class="form-check mb-3">
         <input type="checkbox" class="form-check-input" id="exampleCheck1">
         <label class="form-check-label" for="exampleCheck1">Remember Me</label>
