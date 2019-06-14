@@ -15,7 +15,7 @@
         require_once 'friends.php';
       break;
       default:
-        require_once 'message.php';
+        require_once 'profile.php';
       break;
     }
   

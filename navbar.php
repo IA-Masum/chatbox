@@ -3,7 +3,7 @@
   if(isset($_GET['p'])){
     $active = $_GET['p'];
   }else{
-    $active = 'message';
+    $active = 'profile';
   }
 
 ?>
@@ -18,6 +18,9 @@
 
     <div class="collapse navbar-collapse" id="navbarSupportedContent">
       <ul class="navbar-nav mr-auto">
+        <li class="nav-item <?php $active == 'profile'? print 'active': ''?>">
+          <a class="nav-link" href="main.php?p=profile">Profile</a>
+        </li>
         <li class="nav-item <?php $active == 'message'? print 'active': ''?>">
           <a class="nav-link" href="main.php?p=message">Message</a>
         </li>
