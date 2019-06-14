@@ -2,7 +2,7 @@
 <?php require_once 'header.php'?>
   <div class="ful d-flex text-center justify-content-center">
     <div class="box">
-      <h1 class="title">Welcome to Cahtbox</h1>
+      <h1 class="title">Welcome to Chatbox</h1>
       <p class="lead">Chat any time with your friend</p>
       <hr>
       <div class="mt-4">

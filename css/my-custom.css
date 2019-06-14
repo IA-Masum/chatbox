@@ -18,3 +18,9 @@
 .title{
   font-size: 45px;
 }
+
+.message-box{
+  height: 80%;
+  overflow: auto;
+  background: #ddd;
+}
