@@ -13,4 +13,4 @@
   <link rel="stylesheet" href="css/my-custom.css">
 </head>
 
-<body class="bg-dark">
+<body class="bg-light">
