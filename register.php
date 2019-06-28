@@ -15,13 +15,13 @@
       <div>
         Gender :
         <div class="form-check ml-5">
-          <input class="form-check-input" type="radio" id="male" value="Male">
+          <input class="form-check-input" type="radio" name="gender" id="male" value="Male">
           <label class="form-check-label" for="male">
             Male
           </label>
         </div>
         <div class="form-check ml-5">
-          <input class="form-check-input" type="radio" id="female" value="Female">
+          <input class="form-check-input" type="radio" name="gender" id="female" value="Female">
           <label class="form-check-label" for="female">
             Female
           </label>
@@ -48,7 +48,7 @@
         <input type="checkbox" class="form-check-input" id="trms">
         <label class="form-check-label" for="trms">Agree With Terms & Conditions</label>
       </div>
-      <button id="resigter" class="btn btn-primary">Register</button>
+      <button id="resigter" class="btn btn-primary btn-block">Register</button>
     </form>
 
   </div>

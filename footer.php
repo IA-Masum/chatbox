@@ -3,7 +3,7 @@
 <!-- JQuery -->
 
 <!-- Popper js -->
-<script src="js/popper.js"></script>
+<script src="js/popper.min.js"></script>
 <!-- Bootsrtap js -->
 <script src="js/bootstrap.min.js"></script>
 <!-- FontAwesome -->
