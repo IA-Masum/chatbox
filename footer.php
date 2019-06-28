@@ -1,7 +1,7 @@
 </body>
 
 <!-- JQuery -->
-<script src="js/jquery-3.4.0.js"></script>
+
 <!-- Popper js -->
 <script src="js/popper.js"></script>
 <!-- Bootsrtap js -->

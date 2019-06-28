@@ -11,6 +11,8 @@
   <link rel="stylesheet" href="css/bootstrap.min.css">
   <!-- My Custom CSS -->
   <link rel="stylesheet" href="css/my-custom.css">
+
+  <script src="js/jquery-3.4.0.js"></script>
 </head>
 
 <body class="bg-light">
