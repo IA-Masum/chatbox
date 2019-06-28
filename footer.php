@@ -7,6 +7,6 @@
 <!-- Bootsrtap js -->
 <script src="js/bootstrap.min.js"></script>
 <!-- FontAwesome -->
-<script src="https://kit.fontawesome.com/e630ea84f8.js"></script>
+<!-- <script src="https://kit.fontawesome.com/e630ea84f8.js"></script> -->
 
 </html>
